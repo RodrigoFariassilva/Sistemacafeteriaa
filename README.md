@@ -14,14 +14,23 @@ Este é um projeto simples de um sistema de cafeteria desenvolvido em Java, com 
 
 cafeteria/
 ├── Main.java
+
 ├── model/
+
 │ ├── Produto.java
+
 │ ├── Pedido.java
+
 │ └── ItemPedido.java
+
 ├── controller/
+
 │ ├── ProdutoController.java
+
 │ └── PedidoController.java
+
 ├── service/
+
 │ └── RelatorioService.java
 
  🛠️ Tecnologias utilizadas
